@@ -1,5 +1,10 @@
 package br.com.rd.queroserdev.exercicios.heranca;
 
+/* Crie uma classe equipamento com dois atributos privados.
+ * Crie os métodos de acesso para os atributos de todas as classes.
+ * Crie um método exibir na classe equipamento para exibir os dados desta classe.
+ */
+
 public class Equipamento {
 	
 	private String marca;

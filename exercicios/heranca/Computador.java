@@ -1,5 +1,12 @@
 package br.com.rd.queroserdev.exercicios.heranca;
 
+/* Crie uma classe computador com dois atributos a sua escolha, também privados. 
+ * A classe computador deverá fazer herança da classe equipamento.
+ * Crie os métodos de acesso para os atributos de todas as classes.
+ * Crie um método exibir na classe computador para exibir os dados desta classe,
+ * aproveitando o método que está escrito na superclasse.
+ */
+
 public class Computador extends Equipamento {
 	
 	private boolean portatil;

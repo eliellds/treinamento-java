@@ -1,5 +1,11 @@
 package br.com.rd.queroserdev.exercicios.heranca;
 
+/*Crie uma classe TestaEquipamento, que deverá conter o método main. 
+ * Crie nesta classe um objeto da classe equipamento e preencha os dois atributos que foram 
+ * declarados na classe. 
+ * Crie uma objeto da classe computador e preencha os atributos dessa classe e da classe herdada.
+ */
+
 public class TestaEquipamento {
 
 	public static void main(String[] args) {
