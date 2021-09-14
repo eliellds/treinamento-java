@@ -1,4 +1,6 @@
-package br.com.rd.queroserdev.exercicios.lista04;
+package br.com.rd.queroserdev.exercicios.lista04.executaveis;
+
+import br.com.rd.queroserdev.exercicios.lista04.modelos.Agenda;
 
 public class TesteAgenda {
 

@@ -1,4 +1,13 @@
-package br.com.rd.queroserdev.exercicios.lista04;
+package br.com.rd.queroserdev.exercicios.lista04.modelos;
+
+/*2. Crie uma classe agenda para armazenar 10 pessoas e seja capaz de realizar as
+seguintes operações:
+• void armazenarPessoa(String nome, int idade, float altura);
+• void removerPessoa(String nome);
+• int buscaPessoa(String nome); // Informa em qual posição da Agenda está a
+pessoa.
+• void imprimirPessoa(int indice); // imprime os dados da pessoa que está na posição
+indicada pelo índice.*/
 
 public class Agenda {
 	

@@ -1,4 +1,6 @@
-package br.com.rd.queroserdev.exercicios.lista04;
+package br.com.rd.queroserdev.exercicios.lista04.executaveis;
+
+import br.com.rd.queroserdev.exercicios.lista04.modelos.Pessoa;
 
 public class TestePessoa {
 

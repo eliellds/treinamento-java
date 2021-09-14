@@ -1,4 +1,4 @@
-package br.com.rd.queroserdev.exercicios.heranca;
+package br.com.rd.queroserdev.exercicios.heranca.modelos;
 
 /* Crie uma classe equipamento com dois atributos privados.
  * Crie os métodos de acesso para os atributos de todas as classes.

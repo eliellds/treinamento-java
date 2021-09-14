@@ -1,4 +1,4 @@
-package br.com.rd.queroserdev.exercicios.heranca;
+package br.com.rd.queroserdev.exercicios.heranca.modelos;
 
 /* Crie uma classe computador com dois atributos a sua escolha, também privados. 
  * A classe computador deverá fazer herança da classe equipamento.

@@ -1,4 +1,7 @@
-package br.com.rd.queroserdev.exercicios.heranca;
+package br.com.rd.queroserdev.exercicios.heranca.executaveis;
+
+import br.com.rd.queroserdev.exercicios.heranca.modelos.Computador;
+import br.com.rd.queroserdev.exercicios.heranca.modelos.Equipamento;
 
 /*Crie uma classe TestaEquipamento, que deverá conter o método main. 
  * Crie nesta classe um objeto da classe equipamento e preencha os dois atributos que foram 

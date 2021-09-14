@@ -1,4 +1,18 @@
-package br.com.rd.queroserdev.exercicios.lista04;
+package br.com.rd.queroserdev.exercicios.lista04.modelos;
+
+/*3. Crie uma classe elevador para armazenar as informações de um elevador de um
+prédio. A classe deve armazenar o andar atual (térreo = 0), total de andares do prédio,
+excluindo o térreo, capacidade do elevador, e quantas pessoas estão presentes nele.
+A classe deve disponibilizar os seguintes méltodos:
+• inicializar: deve receber como parâmetros a capacidade do elevador, e o total de
+andares do prédio (os elevadores sempre começam no térreo e vazios);
+• entrar: para acrescentar uma pessoa no elevador (só deve acrescentar se ainda
+tiver espaço);
+• sair: para remover uma pessoa do elevador (só deve remover se existir alguém
+dentro do elevador);
+• subir: para subir um andar (não deve subir se já estiver no último andar);
+• descer: para descer um andar (não deve descer se já estiver no térreo);
+Encapsular todos os atributos da classe.*/
 
 public class Elevador {
 	
@@ -50,11 +64,6 @@ public class Elevador {
 		} else {
 			System.out.println("Estamos no térreo.");
 		}
-	}
-	
-
-	public void setTotalAndares(int totalAndares) {
-		this.totalAndares = totalAndares;
 	}
 
 	public void setCapacidade(int capacidade) {

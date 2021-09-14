@@ -1,4 +1,8 @@
-package br.com.rd.queroserdev.exercicios.lista04;
+package br.com.rd.queroserdev.exercicios.lista04.modelos;
+
+/*1. Crie uma classe que represente uma pessoa, com os atributos privados de nome, idade
+e altura. Crie os métodos de acesso para esses atributos e também um método para
+imprimir na tela os dados de uma pessoa.*/
 
 public class Pessoa {
 	
