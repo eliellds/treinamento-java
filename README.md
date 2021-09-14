@@ -1,1 +1,1 @@
-# treinamento-java
+# Exercícios iniciais em Java.
